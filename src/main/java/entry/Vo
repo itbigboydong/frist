@@ -1,0 +1,6 @@
+public class Vo{
+    private String status;
+    public void getStatus{
+        return status;
+    }
+}
