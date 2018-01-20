@@ -1,3 +1,4 @@
 public interface IDao{
-
+      void insert();
+      void update();
 }
